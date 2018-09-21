@@ -1,2 +1,0 @@
-
-Commit revert to be checked for a branch.
